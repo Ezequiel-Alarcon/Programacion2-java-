@@ -1,4 +1,4 @@
-package Practico_5;
+package Practico_5_UML;
 
 public class Usuario {
     private int id;
